@@ -1,5 +1,4 @@
 # Threat Model Examples
-Threat_Model_Examples
 
 * OAuth 2.0 Threat Model and Security Considerations - https://datatracker.ietf.org/doc/html/rfc6819
 * SSL Threat model by Qualys - https://www.ssllabs.com/downloads/SSL_Threat_Model.png 
