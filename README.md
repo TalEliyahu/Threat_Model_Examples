@@ -6,4 +6,4 @@
 * ISO/SAE 21434 - https://github.com/Yakindu/YSA-examples
 * K8s - https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model 
 * Trinity Wallet - https://github.com/juliocesarfort/public-pentesting-reports/tree/master/COMSATS_Islamabad-CyberSecurityLab
-* https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
+* Contact Tracing Application - https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
