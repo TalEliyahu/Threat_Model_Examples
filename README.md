@@ -1,4 +1,4 @@
-# Threat_Model_Examples
+# Threat Model Examples
 Threat_Model_Examples
 
 * OAuth 2.0 Threat Model and Security Considerations
