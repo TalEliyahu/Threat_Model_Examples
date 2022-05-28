@@ -11,3 +11,4 @@
 * ROS 2 Robotic System - https://design.ros2.org/articles/ros2_threat_model.html
 * Web-based User Feedback System - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 16)
 * Authentication for the Internet of Things (IoT) - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 18)
+* Supply Chain - https://www.youtube.com/watch?v=EHx_-u3JH8Q 
