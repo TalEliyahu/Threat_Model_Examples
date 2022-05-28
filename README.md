@@ -12,3 +12,4 @@
 * Web-based User Feedback System - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 16)
 * Authentication for the Internet of Things (IoT) - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 18)
 * Supply Chain - https://www.youtube.com/watch?v=EHx_-u3JH8Q 
+* PCI - https://shostack.org/files/papers/A_PCI_Threat_Model_2020.pdf by Adam	Shostack
