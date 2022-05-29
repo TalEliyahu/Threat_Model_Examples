@@ -13,6 +13,7 @@
 * Web-based User Feedback System - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 16)
 * Authentication for the Internet of Things (IoT) - https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf (page 18)
 * Supply Chain - https://www.youtube.com/watch?v=EHx_-u3JH8Q 
+* Password Storage Module (PSM) - https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf 
 * PCI - https://shostack.org/files/papers/A_PCI_Threat_Model_2020.pdf by Adam	Shostack
 * Certificate Transparency -https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16 
 * Account Takeover (ATO) - https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg
