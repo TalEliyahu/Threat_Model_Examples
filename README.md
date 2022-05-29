@@ -6,6 +6,7 @@
 * AMPS and SNAP Medical Systems - https://www.mitre.org/sites/default/files/publications/Playbook-for-Threat-Modeling-Medical-Devices.pdf (page 3 and 49)
 * K8s - https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model 
 * Trinity Wallet - https://github.com/juliocesarfort/public-pentesting-reports/tree/master/COMSATS_Islamabad-CyberSecurityLab
+* Docker - https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/
 * Contact Tracing Application - https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
 * Amazon S3 - https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram 
 * Remote Work - https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
