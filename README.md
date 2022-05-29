@@ -22,3 +22,4 @@
 * Account Takeover (ATO) - https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg
 * Password Managers - https://crypto.stanford.edu/~dabo/pubs/papers/pwdmgrBrowser.pdf (page 5)
 * Future E-voting System - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface
+* AWS Fargate - https://sysdig.com/blog/ecs-fargate-threat-modeling/
