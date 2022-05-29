@@ -4,7 +4,9 @@
 * SSL - https://www.ssllabs.com/downloads/SSL_Threat_Model.png 
 * DNSSEC, DoT, and DoH - https://www.netmeister.org/blog/doh-dot-dnssec.html
 * AMPS and SNAP Medical Systems - https://www.mitre.org/sites/default/files/publications/Playbook-for-Threat-Modeling-Medical-Devices.pdf (page 3 and 49)
-* K8s - https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model 
+* Kubernetes 
+  * https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model 
+  * https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF (page 5)
 * Trinity Wallet - https://github.com/juliocesarfort/public-pentesting-reports/tree/master/COMSATS_Islamabad-CyberSecurityLab
 * Docker - https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/
 * Contact Tracing Application - https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
