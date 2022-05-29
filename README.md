@@ -9,6 +9,7 @@
   * https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF (page 5)
 * Trinity Wallet - https://github.com/juliocesarfort/public-pentesting-reports/tree/master/COMSATS_Islamabad-CyberSecurityLab
 * Docker - https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/
+* Container - https://github.com/krol3/container-security-checklist#container-threat-model
 * Contact Tracing Application - https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
 * Amazon S3 - https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram 
 * Remote Work - https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
