@@ -19,3 +19,4 @@
 * Certificate Transparency -https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16 
 * Account Takeover (ATO) - https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg
 * Password Managers - https://crypto.stanford.edu/~dabo/pubs/papers/pwdmgrBrowser.pdf (page 5)
+* Future E-voting System - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface
