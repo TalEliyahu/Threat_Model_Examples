@@ -14,3 +14,4 @@
 * Supply Chain - https://www.youtube.com/watch?v=EHx_-u3JH8Q 
 * PCI - https://shostack.org/files/papers/A_PCI_Threat_Model_2020.pdf by Adam	Shostack
 * Certificate Transparency -https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16 
+* Account Takeover (ATO) - https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg
