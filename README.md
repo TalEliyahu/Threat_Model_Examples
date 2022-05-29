@@ -7,6 +7,7 @@
 * Kubernetes 
   * https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model 
   * https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF (page 5)
+  * https://cloudsecdocs.com/container_security/theory/threats/k8s_threat_model/
 * Trinity Wallet - https://github.com/juliocesarfort/public-pentesting-reports/tree/master/COMSATS_Islamabad-CyberSecurityLab
 * Docker - https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/
 * Container - https://github.com/krol3/container-security-checklist#container-threat-model
