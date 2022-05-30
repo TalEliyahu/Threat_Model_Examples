@@ -25,7 +25,12 @@
 * Password Managers - https://crypto.stanford.edu/~dabo/pubs/papers/pwdmgrBrowser.pdf (page 5)
 * Future E-voting System - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface
 * AWS Fargate - https://sysdig.com/blog/ecs-fargate-threat-modeling/
+* IoT Devices - https://www.psacertified.org/development-resources/building-in-security/threat-models/ 
+  * Asset Tracker
+  * Smart Water 
+  * Network Camera
 * CI/CD Pipeline  
   * https://github.com/rung/threat-matrix-cicd
   * https://github.com/cider-security-research/top-10-cicd-security-risks
-  
+
+
