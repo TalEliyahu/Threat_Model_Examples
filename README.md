@@ -26,5 +26,5 @@
 * Future E-voting System - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface
 * AWS Fargate - https://sysdig.com/blog/ecs-fargate-threat-modeling/
 * CI/CD Pipeline - 
-*  https://github.com/rung/threat-matrix-cicd
-*  https://github.com/cider-security-research/top-10-cicd-security-risks
+ * https://github.com/rung/threat-matrix-cicd
+ * https://github.com/cider-security-research/top-10-cicd-security-risks
