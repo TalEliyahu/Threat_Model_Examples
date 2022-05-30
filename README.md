@@ -33,7 +33,9 @@
   * https://wiki.openstack.org/wiki/Security/Threat_Analysis
   * https://github.com/shohel02/OpenStack_Threat_Modelling/blob/master/Threat_modeling_process.md 
 * Bitcoin - https://github.com/JWWeatherman/bitcoin_security_threat_model 
-* Cloud Computing - https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/@@download/fullReport  
+* Cloud Computing 
+  * https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/@@download/fullReport  
+  * https://github.com/nets4geeks/CCCTM_template 
 * IoT Devices - https://www.psacertified.org/development-resources/building-in-security/threat-models/ 
   * Asset Tracker
   * Smart Water 
