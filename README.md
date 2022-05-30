@@ -29,6 +29,7 @@
 * Password Managers - https://crypto.stanford.edu/~dabo/pubs/papers/pwdmgrBrowser.pdf (page 5)
 * Future E-voting System - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface
 * AWS Fargate - https://sysdig.com/blog/ecs-fargate-threat-modeling/
+* Human - https://github.com/JWWeatherman/human_threat_model
 * OpenStack
   * https://wiki.openstack.org/wiki/Security/Threat_Analysis
   * https://github.com/shohel02/OpenStack_Threat_Modelling/blob/master/Threat_modeling_process.md 
