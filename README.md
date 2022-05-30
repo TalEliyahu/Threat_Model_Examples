@@ -14,7 +14,9 @@
 * Container - https://github.com/krol3/container-security-checklist#container-threat-model
 * Contact Tracing Application - https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/
 * Web Application - https://owasp.org/www-community/Threat_Modeling_Process by OWASP 
-* Mobile Applications - https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf by Synopsys
+* Mobile Applications
+  * https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf by Synopsys
+  * https://teamciso.com/2016/06/threat-modeling-a-mobile-application.html
 * Amazon S3 - https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram 
 * Remote Work - https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
 * ROS 2 Robotic System 
