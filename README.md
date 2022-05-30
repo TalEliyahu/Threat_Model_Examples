@@ -48,5 +48,7 @@
 * CI/CD Pipeline  
   * https://github.com/rung/threat-matrix-cicd
   * https://github.com/cider-security-research/top-10-cicd-security-risks
-* Firmware - https://github.com/bpoudel7/Firmware-Threat-Modeling-Template
+* Firmware
+  * https://github.com/bpoudel7/Firmware-Threat-Modeling-Template
+  * https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html
 
