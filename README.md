@@ -27,6 +27,8 @@ This repository contains various threat model examples for different technologie
   - [Kubernetes Hardening Guidance (DoD)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) (Page 5)
   - [Kubernetes Threat Model - CloudSecDocs](https://cloudsecdocs.com/container_security/theory/threats/k8s_threat_model/)
   - [Kubernetes Threat Modeling - Accuknox](https://github.com/accuknox/k8sthreatmodeling)
+  - [A Deep Dive Into Kubernetes Threat Modeling - Trend Micro](https://www.trendmicro.com/vinfo/us/security/news/security-technology/a-deep-dive-into-kubernetes-threat-modeling)
+  - [Kubernetes Threat Modeling - GitHub](https://github.com/accuknox/k8sthreatmodeling)
 
 - **Docker**
   - [Docker Threat Model - CloudSecDocs](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
