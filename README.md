@@ -23,18 +23,16 @@ This repository contains various threat model examples for different technologie
 ---
 
 ## ☁️ **2. Cloud & Container Security**
+> Cloud and container environments are essential for scalable infrastructure but are also prime targets for attacks. The following examples showcase key threat models in these areas.
 
 - **Kubernetes**
    - [Kubernetes Threat Model - CNCF Financial User Group](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
    - [Kubernetes Hardening Guidance (DoD)](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) (Page 5)
    - [Kubernetes Threat Model - CloudSecDocs](https://cloudsecdocs.com/containers/theory/threats/k8s_threat_model/)
-   - [Kubernetes Threat Modeling - Accuknox](https://github.com/accuknox/k8sthreatmodeling)
    - [A Deep Dive Into Kubernetes Threat Modeling - Trend Micro](https://www.trendmicro.com/vinfo/us/security/news/security-technology/a-deep-dive-into-kubernetes-threat-modeling)
-   - [Kubernetes Threat Modeling - GitHub](https://github.com/accuknox/k8sthreatmodeling)
 
 - **Docker**
    - [Docker Threat Model - CloudSecDocs](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
-   - [Docker Threat Modeling and Top 10 - OWASP Foundation](https://owasp.org)
 
 - **AWS Fargate**  
    [AWS Fargate Threat Modeling - Sysdig](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
@@ -45,6 +43,7 @@ This repository contains various threat model examples for different technologie
 ---
 
 ## 📱 **3. Mobile & IoT Security**
+> Mobile and IoT devices are integral to modern systems, but they introduce unique security challenges. These examples demonstrate approaches to mitigate such risks.
 
 - **Mobile Applications**
    - [Securing Mobile Applications Guide - Synopsys](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)
@@ -87,42 +86,22 @@ This repository contains various threat model examples for different technologie
 
 - **ROS 2 Robotic System**
    - [ROS 2 Threat Model](https://design.ros2.org/articles/ros2_threat_model.html)
-   - [MARA Threat Model - GitHub](https://github.com/AcutronicRobotics/MARA_threat_model)
-
-- **Web-based User Feedback System**  
-   [SAFECode Threat Modeling Whitepaper](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf) (Page 16)
 
 - **Future E-voting System**  
    [Swiss Post E-voting Vulnerabilities](https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface)
 
-- **Supply Chain**  
-   [Supply Chain Threat Modeling Video](https://www.youtube.com/watch?v=EHx_-u3JH8Q)
-
 ---
 
 ## 🌍 **6. Security for Remote & Distributed Work**
+> Security challenges in remote and distributed work environments require unique considerations. Below are examples of threat models addressing these challenges.
 
-- **Remote Work**  
-   [Remote Work Threat Modeling - FireEye](https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html)
-
----
-
-## 🔄 **7. CI/CD & Firmware Security**
-
-- **CI/CD Pipeline**
-   - [CI/CD Threat Matrix - GitHub](https://github.com/rung/threat-matrix-cicd)
-   - [CI/CD Security Risks - GitHub](https://github.com/cider-security-research/top-10-cicd-security-risks)
-
-- **Firmware**
-   - [Firmware Threat Modeling Template - GitHub](https://github.com/bpoudel7/Firmware-Threat-Modeling-Template)
-   - [Firmware Threat Model - TrustedFirmware](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
+- **Remote Work Security Guide**  
+   [Remote Work Threat Model - GitGuardian](https://blog.gitguardian.com/remote-work-security-threat-model/)
 
 ---
 
-📢 ### **Contributing**
-Feel free to contribute additional threat model examples or improvements. Open a pull request to share your work with the community!
+📢 **Contributing**
+> We welcome contributions from the community! Whether it's adding new threat model examples, improving existing content, or suggesting organizational changes, feel free to open a pull request and share your expertise.
 
-### **License**
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+📝 **License**
+> This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
