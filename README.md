@@ -92,14 +92,6 @@ This repository contains various threat model examples for different technologie
 
 ---
 
-## 🌍 **6. Security for Remote & Distributed Work**
-> Security challenges in remote and distributed work environments require unique considerations. Below are examples of threat models addressing these challenges.
-
-- **Remote Work Security Guide**  
-   [Remote Work Threat Model - GitGuardian](https://blog.gitguardian.com/remote-work-security-threat-model/)
-
----
-
 📢 **Contributing**
 > We welcome contributions from the community! Whether it's adding new threat model examples, improving existing content, or suggesting organizational changes, feel free to open a pull request and share your expertise.
 
