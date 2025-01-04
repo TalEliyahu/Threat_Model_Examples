@@ -1,6 +1,8 @@
 # **Threat Model Examples**
 
-This repository contains various threat model examples for different technologies and systems. These resources can help security professionals, developers, and researchers understand the security risks and best practices for mitigating potential threats in a variety of platforms.
+This repository contains various threat model examples for different technologies and systems. These resources provide illustrative examples of threat models across different domains, helping security professionals, developers, and researchers better understand how threat modeling can be applied effectively to address security risks.
+
+> This project was established to give an idea of how the end results of a threat model might look like. With so many guidelines and methodologies available, we noticed that having concrete examples would help the community better understand what 'good' looks like.
 
 ---
 
