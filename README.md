@@ -87,6 +87,12 @@ This repository contains various threat model examples for different technologie
 - **ROS 2 Robotic System**
    - [ROS 2 Threat Model](https://design.ros2.org/articles/ros2_threat_model.html)
 
+- **5G Threat Model**  
+   [ENISA Threat Landscape for 5G Networks](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-5g-networks)
+
+- **Smart Grid Threat Model**  
+   [ENISA Smart Grid Threat Model](https://www.enisa.europa.eu/publications/smart-grid-threat-landscape-and-good-practice-guide)
+
 - **Future E-voting System**  
    [Swiss Post E-voting Vulnerabilities](https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface)
 
