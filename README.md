@@ -2,7 +2,7 @@
 
 This repository contains various threat model examples for different technologies and systems. These resources can help security professionals, developers, and researchers understand the security risks and best practices for mitigating potential threats in a variety of platforms.
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🌐 **1. Web & API Security**
 
@@ -18,7 +18,7 @@ This repository contains various threat model examples for different technologie
 - **Web Application**  
   [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## ☁️ **2. Cloud & Container Security**
 
@@ -40,7 +40,7 @@ This repository contains various threat model examples for different technologie
 - **Amazon S3**  
    [Amazon S3 Threat Model - TrustonCloud](https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 📱 **3. Mobile & IoT Security**
 
@@ -57,7 +57,7 @@ This repository contains various threat model examples for different technologie
 - **Smart Home**  
    [Smart Home Threat Model - GitHub](https://github.com/kkredit/smart-home-threat-model)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🏢 **4. Enterprise Security**
 
@@ -76,7 +76,7 @@ This repository contains various threat model examples for different technologie
 - **Password Managers**  
    [Password Manager Threat Model - Stanford](https://crypto.stanford.edu/~dabo/pubs/papers/pwdmgrBrowser.pdf) (Page 5)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🛠️ **5. Specialized Systems & Technologies**
 
@@ -96,14 +96,14 @@ This repository contains various threat model examples for different technologie
 - **Supply Chain**  
    [Supply Chain Threat Modeling Video](https://www.youtube.com/watch?v=EHx_-u3JH8Q)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🌍 **6. Security for Remote & Distributed Work**
 
 - **Remote Work**  
    [Remote Work Threat Modeling - FireEye](https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🔄 **7. CI/CD & Firmware Security**
 
@@ -115,7 +115,7 @@ This repository contains various threat model examples for different technologie
    - [Firmware Threat Modeling Template - GitHub](https://github.com/bpoudel7/Firmware-Threat-Modeling-Template)
    - [Firmware Threat Model - TrustedFirmware](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 📢 ### **Contributing**
 Feel free to contribute additional threat model examples or improvements. Open a pull request to share your work with the community!
@@ -123,4 +123,4 @@ Feel free to contribute additional threat model examples or improvements. Open a
 ### **License**
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
