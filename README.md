@@ -6,7 +6,7 @@ This repository contains various threat model examples for different technologie
 
 ---
 
-## 🛡️ **1. Web & API Security**
+## 🛡️ **Web & API Security**
 
 - **OAuth 2.0**  
    - [OAuth 2.0 Threat Model (RFC 6819)](https://datatracker.ietf.org/doc/html/rfc6819)
@@ -22,7 +22,7 @@ This repository contains various threat model examples for different technologie
 
 ---
 
-## ☁️ **2. Cloud & Container Security**
+## ☁️ **Cloud & Container Security**
 > Cloud and container environments are essential for scalable infrastructure but are also prime targets for attacks. The following examples showcase key threat models in these areas.
 
 - **Kubernetes**  
@@ -45,7 +45,7 @@ This repository contains various threat model examples for different technologie
 
 ---
 
-## 📱 **3. Mobile & IoT Security**
+## 📱 **Mobile & IoT Security**
 > Mobile and IoT devices are integral to modern systems, but they introduce unique security challenges. These examples demonstrate approaches to mitigate such risks.
 
 - **Mobile Applications**  
@@ -66,7 +66,7 @@ This repository contains various threat model examples for different technologie
 
 ---
 
-## 🏢 **4. Enterprise Security**
+## 🏢 **Enterprise Security**
 
 - **PCI DSS**  
    - [PCI Threat Model - Adam Shostack](https://shostack.org/files/papers/A_PCI_Threat_Model_2020.pdf)
