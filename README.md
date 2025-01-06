@@ -66,6 +66,14 @@ This repository contains various threat model examples for different technologie
 
 ---
 
+## 🧠 **AI & Machine Learning Security**
+> AI systems are becoming increasingly integrated into critical operations. The following example explores threat modeling for generative AI workloads.
+
+- **Generative AI Workload**  
+   - [Threat Modeling Your Generative AI Workload to Evaluate Security Risk - AWS](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)
+
+---
+
 ## 🏢 **Enterprise Security**
 
 - **PCI DSS**  
