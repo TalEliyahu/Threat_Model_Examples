@@ -49,7 +49,6 @@ This repository contains various threat model examples for different technologie
 > Mobile and IoT devices are integral to modern systems, but they introduce unique security challenges. These examples demonstrate approaches to mitigate such risks.
 
 - **Mobile Applications**  
-   - [Securing Mobile Applications Guide - Synopsys](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)  
    - [Mobile Application Threat Modeling - TeamCISO](https://teamciso.com/2016/06/threat-modeling-a-mobile-application.html)
 
 - **IoT Authentication**  
