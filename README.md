@@ -97,6 +97,10 @@ This repository contains various threat model examples for different technologie
 - **Medical Devices (AMPS, SNAP, SKATE)**  
    - [Playbook for Threat Modeling Medical Devices - MITRE](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf)
  
+- **Connected Cars**  
+   - [Driving Security Into Connected Cars - Trend Micro](https://documents.trendmicro.com/assets/white_papers/wp-driving-security-into-connected-cars.pdf)
+
+ 
 ---
 
 📢 **Contributing**
