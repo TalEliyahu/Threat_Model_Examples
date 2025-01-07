@@ -92,6 +92,13 @@ This repository contains various threat model examples for different technologie
 
 ---
 
+## 🏦 **Specialized Systems & Technologies**
+
+- **Medical Devices (AMPS, SNAP, SKATE)**  
+   - [Playbook for Threat Modeling Medical Devices - MITRE](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf)
+ 
+---
+
 📢 **Contributing**
 > We welcome contributions from the community! Open a pull request to share your expertise.
 
