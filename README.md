@@ -100,6 +100,8 @@ This repository contains various threat model examples for different technologie
 - **Connected Cars**  
    - [Driving Security Into Connected Cars - Trend Micro](https://documents.trendmicro.com/assets/white_papers/wp-driving-security-into-connected-cars.pdf)
 
+- **Electric Vehicle Charging Infrastructure**  
+   - [A Threat Model of High-Power Electric Vehicle Charging Infrastructure - PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-34280.pdf)
  
 ---
 
