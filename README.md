@@ -23,7 +23,6 @@ This repository contains various threat model examples for different technologie
 ---
 
 ## 🧠 **AI Security**
-> AI systems are increasingly integrated into critical operations. The following examples explore threat modeling for AI-driven technologies.
 
 - [Generative AI Workloads - AWS](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)
 - [Agentic AI - OWASP](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/) (Page 12)
