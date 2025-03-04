@@ -22,6 +22,17 @@ This repository contains various threat model examples for different technologie
 
 ---
 
+## 🧠 **AI Security**
+> AI systems are increasingly integrated into critical operations. The following examples explore threat modeling for AI-driven technologies.
+
+- **Generative AI Workloads**  
+   - [Threat Modeling Your Generative AI Workload to Evaluate Security Risk - AWS](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)
+
+- **Agentic AI**  
+   - [Agentic AI Threat Model - InnovGuard](#) ([Add the actual link to your write-up, GitHub file, or blog post.](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/))
+
+---
+
 ## ☁️ **Cloud & Container Security**
 > Cloud and container environments are essential for scalable infrastructure but are also prime targets for attacks. The following examples showcase key threat models in these areas.
 
