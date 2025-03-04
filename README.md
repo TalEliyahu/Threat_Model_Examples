@@ -29,7 +29,7 @@ This repository contains various threat model examples for different technologie
    - [Threat Modeling Your Generative AI Workload to Evaluate Security Risk - AWS](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)
 
 - **Agentic AI**  
-   - [Agentic AI Threat Model](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/)
+   - [Agentic AI Threat Model](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/)(Page 12)
 
 ---
 
