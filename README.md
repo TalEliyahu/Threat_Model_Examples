@@ -56,9 +56,6 @@ This repository contains various threat model examples for different technologie
 ## 📱 **Mobile & IoT Security**
 > Mobile and IoT devices are integral to modern systems, but they introduce unique security challenges. These examples demonstrate approaches to mitigate such risks.
 
-- **Mobile Applications**  
-   - [Mobile Application Threat Modeling - TeamCISO](https://teamciso.com/2016/06/threat-modeling-a-mobile-application.html)
-
 - **IoT Authentication**  
    - [IoT Authentication Threat Modeling - SAFECode](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf) (Page 18)
 
@@ -87,7 +84,7 @@ This repository contains various threat model examples for different technologie
    - [PCI Threat Model - Adam Shostack](https://shostack.org/files/papers/A_PCI_Threat_Model_2020.pdf)
 
 - **Password Storage Module (PSM)**  
-   - [Secure Password Storage - OWASP](https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
+   - [Secure Password Storage - OWASP](https://web.archive.org/web/20220629112955/https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
 
 - **Certificate Transparency**  
    - [Certificate Transparency Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
